@@ -1,0 +1,14 @@
+default.x: 0.4
+default.y: 0.4
+default.z: 0.4
+
+YOUR_WORLD: # Put your own world name and your own KnockBack
+  x: 0.33
+  y: 0.4
+  z: 0.37
+
+ANOTHER_WORLD: # You can add as many worlds as you like
+  x: 0.44
+  y: 0.39
+  z: 0.45
+

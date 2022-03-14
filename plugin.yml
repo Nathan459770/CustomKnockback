@@ -1,0 +1,7 @@
+name: CustomKnockback
+main: Nathan45\Knockback\Loader
+author: Nathan45
+version: 0.1
+api: 4.0.0
+description: "A PocketMine-MP plugin who implements a custom Knockback for each world on your server."
+website: "https://github.com/Nathan459770"
